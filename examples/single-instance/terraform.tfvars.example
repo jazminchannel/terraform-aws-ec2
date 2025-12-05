@@ -1,0 +1,4 @@
+region   = "us-east-1"
+vpc_id   = "vpc-REPLACE_ME"
+subnet_id = "subnet-REPLACE_ME"
+ami_id   = "ami-REPLACE_ME"
